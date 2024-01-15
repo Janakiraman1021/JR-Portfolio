@@ -106,7 +106,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://mczealconsultancy.com/wp-content/uploads/2023/12/cropped-cropped-mczeal-modified.png",
     role: "Front-end Developer and Trainer",
     company: "McZeal",
     date: "Oct 2023 - till ",
