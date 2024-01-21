@@ -237,6 +237,91 @@ export const projects = [
   },
 ];
 
+export const achievements = [
+  {
+    id: 9,
+    title: "Marriage Invitations",
+    description:
+      "This Is A Project That what i done is i created a simple marriage invitaion withthe help of HTML & CSS .",
+    image:
+      "https://dev-jr.vercel.app/assets/img/invitation.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "React",
+      "JS",
+
+    ],
+    category: "web app",
+    webapp: "https://jr-wedding-invitation.vercel.app/",
+  },
+  {
+    id: 0,
+    title: "Pickup Lines Generator",
+    description:
+      "This Is a website which give you a  Rado pickup lines using HTML, CSS & JS.",
+    image:
+      "https://dev-jr.vercel.app/assets/img/pickuplines.png",
+      tags: [
+        "HTML",
+        "CSS",
+        "React",
+        "JS",
+      ],
+    category: "web app",
+    webapp: "https://janakiraman1021.github.io/PICKUP_LINES_/",
+  },
+  {
+    id: 1,
+    title: "Love Proposal website",
+    description:
+      "A simple Website For A Peoplw who is affraid to propose to their partners They can  propose to their crushes with the help of these website ",
+    image:
+      "https://dev-jr.vercel.app/assets/img/love_proposal.png",
+      tags: [
+        "HTML",
+        "CSS",
+        "React",
+        "JS",
+      ],
+    category: "web app",
+    webapp: "https://startling-truffle-372281.netlify.app/",
+  },
+  {
+    id: 2,
+    title: "Virtual Mouse",
+    description:
+      "In an era of increasingly diverse human-computer interaction methods, the Gesture-Based Control System represents a novel and intuitive approach to interface with digital devices. This project endeavors to design and implement a sophisticated system that harnesses the power of hand gestures to control computer software and hardware. Leveraging Python, OpenCV, MediaPipe, and PyAutoGUI, this system offers a seamless and responsive user experience.",
+    image:
+      "https://dev-jr.vercel.app/assets/img/virtualmouse.png",
+      tags: [
+        "Python",
+        "Open CV",
+        "Automation",
+        "AR & VR",
+      ],
+    category: "web app",
+    webapp: "https://virtual-mouse-nu.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Bank management system",
+    description:
+      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+    image:
+      "https://dev-jr.vercel.app/assets/img/bank.png",
+      tags: [
+        "HTML",
+        "CSS",
+        "React",
+        "JS",
+      ],
+    category: "web app",
+    github: "https://github.com/Janakiraman1021/BankProject-1.git",
+    webapp: "https://github.com/Janakiraman1021/BankProject-1.git",
+  },
+];
+
 export const TimeLineData = [
   { year: 2020, text: "Started my journey" },
   { year: 2021, text: "Started my journey as a web" },
